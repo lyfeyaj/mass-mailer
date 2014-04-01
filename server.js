@@ -3,7 +3,7 @@
  *  Mean container for dependency injection
  */
 var mean = require('meanio');
-mean.app('Mean Demo App',{});
+mean.app('Mass Mailer',{});
 
 /**
  * Module dependencies.
